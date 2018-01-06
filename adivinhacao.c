@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+
+	//cabeçalho
 	printf("******************************************\n");
 	printf("* Bem vindo ao nosso jogo de adivinhação *\n");
 	printf("******************************************\n");
@@ -25,5 +27,4 @@ int main() {
 			}
 		}
 	}
-
 }
